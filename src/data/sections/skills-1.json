@@ -1,0 +1,18 @@
+{
+    "title": "Compétences linguistiques",
+    "items": [
+        {
+            "label": "Anglais",
+            "value": "70"
+        },
+        {
+            "label": "Français",
+            "value": "95"
+        },
+        {
+            "label": "Arabe",
+            "value": "80"
+        }
+       
+    ]
+}

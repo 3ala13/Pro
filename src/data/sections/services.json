@@ -1,0 +1,23 @@
+{
+    "title": "Services",
+    "items": [
+        {
+            "title": "Gestion des campagnes publicitaires",
+            "icon": "/img/icons/1.svg",
+            "text": "Optimisez votre visibilité et multipliez vos conversions en me confiant la gestion experte de vos campagnes publicitaires.",
+            "link": "/services/service-1"
+        },
+        {
+            "title": "création/Gestion de sites Web",
+            "icon": "/img/icons/2.svg",
+            "text": "J'associe l'esthétique et la fonctionnalité avec ma maîtrise des CMS, créant ainsi des sites Web captivants et performants.",
+            "link": "/services/service-2"
+        },
+        {
+            "title": "Conception UX/UI",
+            "icon": "/img/icons/3.svg",
+            "text": "Ma maîtrise de Canva et du design UI/UX fusionne l'esthétique et la convivialité, créant des expériences visuelles mémorables.",
+            "link": "/services/service-3"
+        }
+    ]
+}

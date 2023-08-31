@@ -1,0 +1,57 @@
+---
+#preview
+title: Restaurant 'Botan Pizza'
+image: /img/portfolio/1.jpg
+category: Mes Projets
+
+#full details
+details:
+    - label: "Client:"
+      value: "Botan"
+
+    - label: "Date:"
+      value: "Novembre 2020"
+
+    - label: "$category"
+
+description:
+    enabled: 1
+    content: "
+        <p>Bienvenue à Pizza Botan, mon projet de restauration unique. Ici, nous fusionnons le plaisir classique de la pizza avec des ingrédients frais et des saveurs botaniques pour offrir une expérience de repas inoubliable. En tant que propriétaire, je suis ravi de vous faire découvrir cette approche nouvelle et délicieuse de la cuisine.</p>
+    "
+
+gallery: 
+    enabled: 1
+    items:
+        - image: /img/portfolio/project-1/2.jpg
+          alt: "image"
+
+        - image: /img/portfolio/project-1/3.jpg
+          alt: "image"
+
+        - image: /img/portfolio/project-1/4.jpg
+          alt: "image"
+
+description2:
+    enabled: 1
+    heading: "Pizza Botan : L'Harmonie Parfaite entre Saveurs et Fraîcheur"
+    content: "
+        <p>En tant que fier propriétaire de Pizza Botan et de son concept novateur, je présente un projet qui incarne une fusion délectable entre des saveurs exquises et une fraîcheur inégalée. Chaque pizza servie reflète mon engagement envers des ingrédients de première qualité. Mon rôle au cœur de Pizza Botan consiste à garantir une expérience gustative exceptionnelle en orchestrant une symphonie de saveurs et de fraîcheur. À travers mon portfolio, je partage avec enthousiasme cette aventure gastronomique qui témoigne de mon dévouement envers l'excellence culinaire et l'art de créer une harmonie parfaite.</p>
+    "
+    button:
+        label: Visite le site web
+        link: "https://pizzabotan.com/"
+        target: "_blank"
+
+gallery2: 
+    enabled: 1
+    items:
+        - image: /img/portfolio/project-1/5.jpg
+          alt: "image"
+
+        - image: /img/portfolio/project-1/6.jpg
+          alt: "image"
+
+        - image: /img/portfolio/project-1/7.jpg
+          alt: "image"
+---

@@ -1,0 +1,12 @@
+{
+    "avatar": {
+        "image": "/img/person/avatar.jpg",
+        "alt": "avatar"
+    },
+    "title": "Bonjour, mon nom est Ala, <br/>je suis spécialiste web et marketing numérique basé au Québec",
+    "description": "Je possède une solide expérience dans la création de sites web en utilisant des plateformes telles que Wordpress, Wix, Odoo, ainsi que d'autres outils de développement. Mes compétences en HTML et CSS sont de niveau intermédiaire, me permettant de personnaliser efficacement les sites que je crée",
+    "signature": {
+        "image": "/img/person/sign.png",
+        "alt": "signature"
+    }
+}

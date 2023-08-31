@@ -1,0 +1,23 @@
+{
+    "title": "Quelques avis",
+    "items": [
+        {
+            "name": "Alain bellehumeur",
+            "image": "/img/customers/1.jpg",
+            "role": "Directeur du musée Gilles-Villeneuve",
+            "text": "Ala a apporté une touche inspirante à notre musée pendant son stage. Sa créativité et sa contribution à l'amélioration de notre présence en ligne ont été très appréciées. Son implication enthousiaste a été un atout pour notre équipe."
+        },
+        {
+            "name": "Karim Boukhelifa",
+            "image": "/img/customers/2.jpg",
+            "role": "Formateur Scalables-ads",
+            "text": "Sa participation active et sa volonté constante d'apprendre ont permis à Ala de se distinguer dans notre formation de marketing numérique. Sa perspicacité rapide envers les concepts complexes a été impressionnante."
+        },
+        {
+            "name": "Leo Trespeuch",
+            "image": "/img/customers/3.jpg",
+            "role": "Professeur UQTR",
+            "text": "Ala a été un étudiant exceptionnellement engagé et curieux dans mon cours. Son aptitude à rapidement saisir les concepts numériques et à les appliquer pour résoudre des problèmes a été impressionnante, contribuant ainsi de manière significative aux discussions en classe."
+        }
+    ]
+}

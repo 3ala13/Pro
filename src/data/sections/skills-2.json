@@ -1,0 +1,37 @@
+{
+    "title": "Compétences techniques",
+    "items": [
+        {
+            "label": "Outils CMS (Wordpress, Odoo, Wix..)",
+            "value": "95"
+        },
+        {
+            "label": "Canva",
+            "value": "95"
+        },
+        {
+            "label": "Google Ads",
+            "value": "85"
+        },
+        {
+            "label": "Google analytics",
+            "value": "70"
+        },
+        {
+            "label": "Hootsuite",
+            "value": "90"
+        },
+        {
+            "label": "Html",
+            "value": "50"
+        },
+        {
+            "label": "Css",
+            "value": "40"
+        },
+        {
+            "label": "Figma/Adobe XD",
+            "value": "40"
+        }
+    ]
+}
