@@ -34,7 +34,7 @@ const DefaultHeader = ({ extraClass }) => {
           <span className="mil-dot">{appData.header.logo.symbol}</span>
         </Link>
 
-        <div className="mil-navigation">
+        <div className={`mil-navigation ${toggle ? "mil-active" : ""}`}>
             <nav id="swupMenu" className="mil-menu-transition">
                 <ul>
                     {navItems.map((item, key) => (

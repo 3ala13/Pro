@@ -314,7 +314,7 @@ const DefaultHeader = ({ extraClass  })=>{
                     })
                 }),
                 /*#__PURE__*/ jsx_runtime.jsx("div", {
-                    className: "mil-navigation",
+                    className: `mil-navigation ${toggle ? "mil-active" : ""}`,
                     children: /*#__PURE__*/ jsx_runtime.jsx("nav", {
                         id: "swupMenu",
                         className: "mil-menu-transition",
